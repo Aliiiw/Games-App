@@ -1,4 +1,4 @@
-package com.example.mygameapp
+package com.example.mygameapp.ui.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
