@@ -1,2 +1,2 @@
-# Movie-App
-movie app using mvvm and api with Jetpack Compose
+# Games-App
+Games app using mvvm and api with Jetpack Compose
