@@ -1,4 +1,4 @@
-package com.example.mymovieapp.data.model
+package com.example.mygameapp.data.model
 
 data class GamesItem(
     val developer: String,

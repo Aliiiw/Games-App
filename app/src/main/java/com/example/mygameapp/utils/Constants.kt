@@ -1,4 +1,4 @@
-package com.example.mymovieapp.utils
+package com.example.mygameapp.utils
 
 class Constants {
     companion object {
